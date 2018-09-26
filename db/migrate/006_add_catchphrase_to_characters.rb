@@ -1,1 +1,4 @@
 class AddCatchPhraseToCharacters
+  
+  
+end
