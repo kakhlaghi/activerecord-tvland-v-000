@@ -6,3 +6,4 @@ class CreateCharacters < ActiveRecord::Migration[4.2]
       t.string :show_id
   end
 end
+end
