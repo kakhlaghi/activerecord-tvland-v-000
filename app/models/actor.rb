@@ -1,6 +1,6 @@
 class Actor < ActiveRecord::Base
   has_many :characters
-  has_many :shows
+  has_many :shows, through 
   
   def full_name
     self.first_name
