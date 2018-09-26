@@ -1,6 +1,7 @@
 class CreateActors < ActiveRecord::Migration
 
   def change
-    create_table 
+    create_table :actors do |t|
+      
   end
 end
